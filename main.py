@@ -1,6 +1,6 @@
 import numpy as np 
 
-vek = np.arange(1,6) #вектор 5 нат чисел 
+vek = np.arange(1,11) #вектор 5 нат чисел 
 
 m = np.zeros((3,3), dtype=int) # матриця 3х3 з нулів 
 
